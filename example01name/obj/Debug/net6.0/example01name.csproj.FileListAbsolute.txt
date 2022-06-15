@@ -1,0 +1,15 @@
+D:\Git\HelloWorld\example01name\bin\Debug\net6.0\example01name.exe
+D:\Git\HelloWorld\example01name\bin\Debug\net6.0\example01name.deps.json
+D:\Git\HelloWorld\example01name\bin\Debug\net6.0\example01name.runtimeconfig.json
+D:\Git\HelloWorld\example01name\bin\Debug\net6.0\example01name.dll
+D:\Git\HelloWorld\example01name\bin\Debug\net6.0\example01name.pdb
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\example01name.csproj.AssemblyReference.cache
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\example01name.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\example01name.AssemblyInfoInputs.cache
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\example01name.AssemblyInfo.cs
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\example01name.csproj.CoreCompileInputs.cache
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\example01name.dll
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\refint\example01name.dll
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\example01name.pdb
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\example01name.genruntimeconfig.cache
+D:\Git\HelloWorld\example01name\obj\Debug\net6.0\ref\example01name.dll
