@@ -1,5 +1,5 @@
 ﻿Console.Write("Введите имя пользоваткеля:");
-string username = Console.ReadLine();
+var username = Console.ReadLine();
 
 if (username.ToLower() == "маша")
 {
